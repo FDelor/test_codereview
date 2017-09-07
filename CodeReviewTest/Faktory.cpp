@@ -1,0 +1,2 @@
+#include "Faktory.h".h"
+
