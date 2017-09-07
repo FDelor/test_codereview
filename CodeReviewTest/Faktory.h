@@ -31,7 +31,6 @@ public:
 
 
 
-    QHash<KeyType, QWeakPointer<Type>> m_instances;
 };
 
 #endif // FAKTORIY_H
