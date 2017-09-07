@@ -1,6 +1,2 @@
-#include "Faktorie.h"
+#include "Faktory.h".h"
 
-Faktorie::Faktorie()
-{
-
-}
