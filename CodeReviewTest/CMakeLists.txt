@@ -11,7 +11,6 @@ set(PROJECT_HADERS
     Faktory.h
 )
 set(PROJECT_SOURCE
-    Faktory.cpp
     main.cpp
 )
 
