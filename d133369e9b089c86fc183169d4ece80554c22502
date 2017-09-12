@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d9faf026_a3a59df8",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012329
+      },
+      "writtenOn": "2017-09-12T09:53:10Z",
+      "side": 1,
+      "message": "uiouzoi",
+      "range": {
+        "startLine": 3,
+        "startChar": 8,
+        "endLine": 3,
+        "endChar": 15
+      },
+      "revId": "d133369e9b089c86fc183169d4ece80554c22502",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
