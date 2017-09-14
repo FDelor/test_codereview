@@ -7,11 +7,12 @@ blaa blaa here
 more blaa here
 
 ```c++
+// count to 100;
 int i = 0;
 do{
   ++i;
   std::cout << "loop count: " << i << std::endl;
-}while(true)
+}while( i < 100)
 
 
 ```
