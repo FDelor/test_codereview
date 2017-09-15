@@ -12,7 +12,7 @@ int i = 0;
 do{
   ++i;
   std::cout << "loop count: " << i << std::endl;
-}while( i <= 100)
+}while( i < 100);
 
 
 ```
